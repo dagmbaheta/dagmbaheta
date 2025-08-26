@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Motivated professional with a degree in Business Marketing and Finance with a profound interest in techology and a dedication to solving complex problems ready to dive into the world of Cybersecurity.  
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
